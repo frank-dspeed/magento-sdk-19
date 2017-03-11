@@ -1,4 +1,6 @@
 # magento-sdk-19
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/magento-sdk-19.svg)](https://greenkeeper.io/)
 Magento 1.9 Admin and Customer API
 
 # Example Magento
